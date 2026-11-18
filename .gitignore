@@ -1,0 +1,3 @@
+echo node_modules/ > .gitignore
+echo local.settings.json >> .gitignore
+echo .env >> .gitignore
